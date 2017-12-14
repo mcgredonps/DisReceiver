@@ -11,7 +11,7 @@ import edu.nps.moves.disutil.*;
  * A simple application to receive Distributed Interactive Simulation (DIS)
  * network messages.
  * 
- * @author mcgredo
+ * @author DMcG
  */
 public class DisReceiver {
 
